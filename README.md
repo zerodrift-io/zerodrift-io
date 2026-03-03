@@ -1,16 +1,15 @@
-## Hi there 👋
+# ZeroDrift 🎯
+### AI Crews & Automation — Zero Error. Zero Drift.
 
-<!--
-**zerodrift-io/zerodrift-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building autonomous AI organizations : specialized agent crews
+that operate with precision so humans focus on what matters.
 
-Here are some ideas to get you started:
+## 🔧 Stack
+OpenClaw · Groq Llama 3.3 70B · Docker · Python · M365 Graph API · Telegram
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Live Projects
+| Project | Description | Status |
+|---|---|---|
+| [cave-bot](https://github.com/zerodrift-io/cave-bot) | Wine cellar AI automation | 🟢 Live |
+
+## 📍 Paris, France — Open to collaborations
